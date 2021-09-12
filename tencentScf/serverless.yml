@@ -40,4 +40,4 @@ inputs:
   environment:
     variables: # 根据自己的需要修改
       Ray_CloseConsoleWhenEnd: 1
-      Ray_BiliBiliCookies__1: 123 # cookie，必填
+      Ray_BiliBiliCookies__1: buvid3=68AADA81-A32F-1837-82B2-C2E4FC3F229277876infoc; CURRENT_FNVAL=80; _uuid=C7539C52-D7C3-24DF-4F6D-E1409E1091AE78376infoc; blackside_state=1; fingerprint=a975a12f1b51af356bb4f3bfa33e4aa7; buvid_fp=68AADA81-A32F-1837-82B2-C2E4FC3F229277876infoc; buvid_fp_plain=68AADA81-A32F-1837-82B2-C2E4FC3F229277876infoc; innersign=0; bp_t_offset_496392148=569058968876445936; fingerprint3=2fa90b6836f8f99e6110cee6e238d341; fingerprint_s=e812db1774b6d47b094a250400093062; SESSDATA=2a7541c5,1646965658,134f4*91; bili_jct=fcf42f57608beae7404caaf7bb16314a; DedeUserID=496392148; DedeUserID__ckMd5=572aab40c9769f77; sid=8w6szzk7; LIVE_BUVID=AUTO5416314136724174; PVID=5; bfe_id=6f285c892d9d3c1f8f020adad8bed553 # cookie，必填
